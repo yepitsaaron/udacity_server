@@ -1,3 +1,10 @@
+IP: http://52.89.202.236
+SSH: port 2200
+using provided PEM:
+ssh -i lightsail.pem grader@52.89.202.236 -p 2200
+
+
+# server configuration steps below
 https://github.com/yepitsaaron/udacity_server.git
 
 # get environment configured
